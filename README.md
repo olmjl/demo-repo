@@ -3,7 +3,7 @@
 ![Markdown Logo](https://dev-to-uploads.s3.amazonaws.com/i/snq5gst9tw245shyavk2.png) 
  
 ---
-[Canal de YouTube](https://www.youtube.com/channel/UCkbeWlOiGL0QxBjZKdaZrrw "Desarrollo de interfaces)
+[Canal de YouTube](https://www.youtube.com/channel/UCkbeWlOiGL0QxBjZKdaZrrw "Desarrollo de interfaces")
  
 ## Challenge: Spice It Up
  
